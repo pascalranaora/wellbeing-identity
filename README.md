@@ -38,7 +38,7 @@ Run the visualization:
 ```bash
 pip install -r requirements.txt
 python ranaora.py
-
+```
 
 @misc{ranaora2025,
   author = {Ranaora, Pascal},
@@ -106,5 +106,5 @@ Web, Energy & Climate | Wellbeing Economics
 
 > **Let’s decarbonize *human outcomes*, not just dollars.**  
 > **#WellbeingRanaoraIdentity #EnergyForWellbeing #ClimateJustice**
-```
+
 
