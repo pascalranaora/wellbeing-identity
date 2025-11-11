@@ -9,7 +9,7 @@
 ## 🎯 Why This Matters
 
 The **Kaya Identity** measures progress in **GDP per kWh**.  
-The **Ranaora Wellbeing Identity** measures progress in **human flourishing per kWh**.
+The **Ranaora-? Wellbeing Identity** measures progress in **human flourishing per kWh**.
 
 > **We don’t need more GDP. We need more joy, health, and dignity — per kilowatt.**
 
