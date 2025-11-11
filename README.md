@@ -1,4 +1,4 @@
-# 🌍 The Wellbeing identity an alternative expression to the Kaya identity
+# 🌍 The Wellbeing Identity: A Wellbeing-Centric Reformulation of the Kaya Identity
 
 > **CO₂ = Population × (Wellbeing / Capita) × (kWh / Wellbeing) × (CO₂ / kWh)**  
 > *A wellbeing-centered decomposition of global carbon emissions*  
