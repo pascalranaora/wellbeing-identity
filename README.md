@@ -83,7 +83,7 @@ python ranaora.py
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/MadaGasBit/ranaora-equation}},
+  howpublished = {\url{https://github.com/pascalranaora/wellbeing-identity}},
   note = {Accessed: November 2025}
 }
 ```
